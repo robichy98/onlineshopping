@@ -1,1 +1,5 @@
-webpage
+![webpage](https://user-images.githubusercontent.com/63616953/146825865-128222eb-0dcd-40da-8a63-5a7826ed74e2.jpeg)
+![addingitem](https://user-images.githubusercontent.com/63616953/146825924-8b4f2af2-0811-41e8-a2c3-3eb75de94ab9.jpeg)
+![addQty](https://user-images.githubusercontent.com/63616953/146825942-7b0396ec-439f-49dc-b458-e4dd694e1fb1.jpeg)
+![reduceQty](https://user-images.githubusercontent.com/63616953/146825949-3d458908-bec8-44ea-a3bd-7eeb0b8c5a9e.jpeg)
+![emptycart](https://user-images.githubusercontent.com/63616953/146825957-b9f9dde0-fb7d-4350-8f6d-52ef9e36fc9c.jpeg)
