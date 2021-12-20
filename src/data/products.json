@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Egg",
+      "description": "8 Eggs",
+      "image": "egg.jpg",
+      "price": 5.00
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "description": "4 Bananas",
+      "image": "banana.jpg",
+      "price": 3.00
+    },
+    {
+      "id": 3,
+      "name": "Milk",
+      "description": "1 Gallon",
+      "image": "milk.png",
+      "price": 3.00
+    },
+    {
+      "id": 4,
+      "name": "Hot Dog",
+      "description": "1 pack hotdog",
+      "image": "hotdog.jpg",
+      "price": 5.00
+    },
+    {
+      "id": 5,
+      "name": "Chicken",
+      "description": "whole chicken",
+      "image": "chicken.jpeg",
+      "price": 8.00
+    },
+    {
+      "id": 6,
+      "name": "Carrots",
+      "description": "1 Pack carrots",
+      "image": "carrots.jpg",
+      "price": 5.00
+     }
+     ]
+}
